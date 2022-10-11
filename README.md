@@ -1,4 +1,4 @@
-##                               Hi there! My name is Igor, and I am a Front-End student. Nice to meet ya. :upside_down_face: :wave:
+##                               Hi there! My name is Igor, and I am a Programming Student. Nice to meet ya. :upside_down_face: :wave:
 
 
 <div align="center">
