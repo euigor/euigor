@@ -8,16 +8,26 @@
 	</a>
 </div> 
 
+
+
 <div align="center">
+	<li> Currently studying 👇</li>
+	<br>
  	<img align="center" alt="HTML5 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   	<img align="center" alt="CSS3 Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   	<img align="center" alt="JS Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+	
+	     
 </div>
 
-<br>
- 
-  ### 
 
+<br>
+
+<br>
+<div align="center">
+	<li>My socials 👇</li>
+	<br>
+</div>
 <div align="center"> 
 <a href = "https://www.instagram.com/mertvykkh/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:igorgabrielcardosodejesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
