@@ -4,11 +4,9 @@
 <h2 align="center">Sou um estudante front-end apaixonado por tecnologia.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=euigor&label=Profile%20views&color=330967&style=flat" alt="euigor" /> </p>
 
-- 🔭 No momento estou finalizando meu projeto de **mini portfólio utilizando meu aprendizado de HTML, CSS e JS.**
+- 🔭 Terminando um projeto/challenge do FrontEnd Mentor de criar um site com um QR Code que redireciona de volta para o Frontend Mentor quando lido. (HTML e CSS somente)
 
 - 🌱 Estou estudando **HTML, CSS, JavaScript e React.**
-
-- 🌠 Fun fact: **🏳️‍🌈 com orgulho. :)**
 
 - 📬 <a href = "mailto:igorgabrielcardosodejesus@gmail.com">Email para contato 📧
 
