@@ -4,11 +4,11 @@
 <h3 align="center">Sou um estudante front-end apaixonado por tecnologia.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=euigor&label=Profile%20views&color=330967&style=flat" alt="euigor" /> </p>
 
-- 🔭 Estou terminando um projeto/challenge do FrontEnd Mentor de criar um site com um QR Code que redireciona de volta para o Frontend Mentor quando lido. (HTML e CSS somente)
 
 - 🌱 Estudando **HTML, CSS, JavaScript e React.**
 
 - 📬 <a href = "mailto:igorgabrielcardosodejesus@gmail.com">Email para contato 📧
+
 
 <h3 align="left">Redes (CTRL+LMB para abrir em outra aba):</h3>
 <p align="left">
